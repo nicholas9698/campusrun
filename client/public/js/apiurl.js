@@ -1,0 +1,1 @@
+export default 'http://mini_program.evosimt.top:8360/'
